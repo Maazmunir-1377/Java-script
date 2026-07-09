@@ -1,0 +1,13 @@
+let score = "Maaz"
+
+console.log(typeof score);
+
+let valueInNumber = Number(score)
+
+console.log(typeof valueInNumber);
+console.log(valueInNumber);
+
+let age = 22
+
+let stringNumber = String(age)
+console.log(typeof stringNumber);

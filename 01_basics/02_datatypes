@@ -1,0 +1,5 @@
+let name = "Maaz"
+let age = 22
+isLoggedIn = false
+
+console.log(typeof undefined);
